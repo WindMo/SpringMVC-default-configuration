@@ -7,8 +7,7 @@ package mo.springmvc.defaultconfiguration.exception;
  */
 public class NullAnnotationException extends Exception {
 
-    public NullAnnotationException() {
-    }
+    public NullAnnotationException() {}
 
     public NullAnnotationException(String message) {
         super(message);
