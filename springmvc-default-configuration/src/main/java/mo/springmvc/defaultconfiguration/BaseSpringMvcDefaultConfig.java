@@ -85,7 +85,6 @@ public abstract class BaseSpringMvcDefaultConfig extends AbstractAnnotationConfi
         return new String[]{"/"};
     }
 
-
     /**
      * spring容器配置类扫描非Controller的bean
      */
