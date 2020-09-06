@@ -18,6 +18,7 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <datasource-mapping>
+          <factory-entry name="Entities" />
           <factory-entry name="springmvc-default-configuration" />
         </datasource-mapping>
         <naming-strategy-map />
